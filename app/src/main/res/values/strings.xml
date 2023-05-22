@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="base_currency">EUR: 1.00</string>
+</resources>
